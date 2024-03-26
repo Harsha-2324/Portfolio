@@ -109,7 +109,7 @@ const Myprojects = () => {
               Github
             </a>
             <a
-              href="https://lighthearted-rugelach-cf5e1d.netlify.app/"
+              href="https://harsha-react-portfolio.netlify.app/"
               target="_blank"
               rel="noreferrer"
               className="btn btn-primary"
