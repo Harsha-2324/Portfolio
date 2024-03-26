@@ -101,7 +101,7 @@ const Myprojects = () => {
           <small className="text-light">ReactJs</small>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/Thakshila-Bandara/my-portfolio"
+              href="https://github.com/Harsha-2324/Portfolio.git"
               target="_blank"
               rel="noreferrer"
               className="btn"
@@ -109,7 +109,7 @@ const Myprojects = () => {
               Github
             </a>
             <a
-              href="https://thakshila-bandara.github.io/my-portfolio/"
+              href="https://lighthearted-rugelach-cf5e1d.netlify.app/"
               target="_blank"
               rel="noreferrer"
               className="btn btn-primary"
