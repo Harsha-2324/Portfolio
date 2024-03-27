@@ -11,7 +11,12 @@ const Contacts = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_kpzxgqz', 'template_kk9ipl8', form.current, 'uKELRhBOpArKOozDJ')
+    emailjs.sendForm(
+      "gmail",
+      "template_1tm006w",
+      form.current,
+      "sdE2GigMopq4ZWdd8"
+    );
     e.target.reset()
     
   }
