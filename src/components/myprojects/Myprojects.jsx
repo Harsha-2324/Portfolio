@@ -4,7 +4,7 @@ import IMG1 from '../../assets/Screenshot 2024-03-15 114339.png'
 import IMG2 from '../../assets/Screenshot 2024-03-26 203914.png'
 import IMG3 from '../../assets/Screenshot 2024-03-26 204257.png'
 import IMG4 from '../../assets/Screenshot 2024-03-26 203028.png'
-import IMG5 from "../../assets/Screenshot 2024-03-26 210812.png";
+import IMG5 from "../../assets/Capstone.png";
 const Myprojects = () => {
   return (
     <section id="myprojects">
@@ -22,7 +22,7 @@ const Myprojects = () => {
           </small>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/Harsha-2324/Capstone_Markdown_Viewer_FrontEnd.git"
+              href="https://github.com/Harsha-2324/Capstone_React-Markdown-Viewer-Frontend"
               target="_blank"
               rel="noreferrer"
               className="btn"
@@ -30,7 +30,7 @@ const Myprojects = () => {
               Github
             </a>
             <a
-              href="https://capstone-markdown-viewer-front-end.vercel.app/"
+              href="https://capstone-react-markdown-viewer-frontend.vercel.app/"
               target="_blank"
               rel="noreferrer"
               className="btn btn-primary"
