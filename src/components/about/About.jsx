@@ -47,9 +47,9 @@ const About = () => {
             </article>
           </div>
           <p>
-            I'm a <b>Information Technology Gradute</b> at the Anna
+            I'm a <b>IT Graduate</b> at the Anna
             University. I'm an enthusiastic and driven IT student seeking a
-            challenging internship opportunity to apply and expand my technical
+            challenging opportunity to apply and expand my technical
             skills. With a strong academic foundation in Information Technology
             and hands-on experience in various programming languages, I am eager
             to contribute to innovative projects and learn from experienced
